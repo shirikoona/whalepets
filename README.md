@@ -1,7 +1,4 @@
-# 🌈 Rainbow Fart Waifu
-![](https://s1.ax1x.com/2020/08/21/dNvHfS.gif)
-
-Website：[https://rfw.jnsii.com](https://rfw.jnsii.com/index_en.html)
+# Whale Trading Partner
 
 Languages: [简体中文](./README.zh.md) | English
 
